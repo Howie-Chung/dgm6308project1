@@ -1,0 +1,42 @@
+body {
+    color: #4f4f4f;
+    padding: 20px 0;
+}
+
+.wrap {
+    max-width: 992px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0px 0 10px 0;
+}
+
+h2 {
+    font-size: 26px;
+    margin: 0 0 10px 0;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #EB4F3F;
+}
+
+h3 {
+    font-size: 20px;
+    margin: 0px 0 0 0;
+}
+
+button {
+    font-size: 14px;
+    padding: 10px 20px;
+    background-color: #EB4F3F;
+    color: #ffffff;
+    width: 100%;
+}
+
+.family-group {
+    margin-top: 40px;
+}
+
+#family-list {
+    margin-top: 20px;
+}
